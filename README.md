@@ -15,12 +15,6 @@ concepts and solve problems through technology.
 - **Electronics:** Arduino, sensors and electronic circuits
 - **Tools:** Git, GitHub, NetBeans and Visual Studio Code
 
-## 🚀 Currently Learning
-
-- Software development with Java and C
-- Graphs, trees, heaps and algorithms
-- Concurrent and multithreaded programming
-- Arduino and embedded systems
 
 ## 📫 Connect with me
 
