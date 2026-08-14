@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Arihuz Icaza
 
-<!--
-**Arihuz124/Arihuz124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Engineering Student at ESPOL
 
-Here are some ideas to get you started:
+I am a Computer Engineering student interested in software development,
+data structures, electronics, and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building academic projects that allow me to apply programming
+concepts and solve problems through technology.
+
+## 💻 Technologies and Skills
+
+- **Languages:** Java and C
+- **Computer Science:** Data Structures, Object-Oriented Programming and Concurrency
+- **Electronics:** Arduino, sensors and electronic circuits
+- **Tools:** Git, GitHub, NetBeans and Visual Studio Code
+
+## 🚀 Currently Learning
+
+- Software development with Java and C
+- Graphs, trees, heaps and algorithms
+- Concurrent and multithreaded programming
+- Arduino and embedded systems
+
+## 📫 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/arihuz-icaza-51b796376/)
