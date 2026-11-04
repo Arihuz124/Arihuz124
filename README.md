@@ -45,6 +45,8 @@ A website created to share information about a charity sporting event, including
 
 - [View Repository](https://github.com/Arihuz124/Proyecto-por-Fiore)
 - [Live Demo](https://arihuz124.github.io/Proyecto-por-Fiore/)
+![Proyecto por Fiore Preview](assets/previews/fiore.png)
+
 
 ### 📚 ESPOL Virtual Classroom Organizer
 
@@ -53,6 +55,7 @@ A browser extension designed to improve the organization of academic activities 
 **Technologies:** JavaScript, CSS, Browser Extensions
 
 - [View Repository](https://github.com/Arihuz124/Extension-Canva-aula-virtual-ESPOL)
+![ESPOL Virtual Classroom Organizer Preview](assets/previews/organizer.png)
 
 ### 🎓 ESPOL Interactive Curriculum
 
@@ -63,6 +66,8 @@ This project is based on an existing open-source implementation, with personal a
 **Technologies:** React, TypeScript, Tailwind CSS
 
 - [View Repository](https://github.com/Arihuz124/malla-interactiva-espol-main)
+![ESPOL Interactive Curriculum Preview](assets/previews/malla.png)
+
 
 ---
 
