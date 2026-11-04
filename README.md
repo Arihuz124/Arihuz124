@@ -16,6 +16,23 @@ concepts and solve problems through technology.
 - **Tools:** Git, GitHub, NetBeans and Visual Studio Code
 
 
+### 🛠️ Technologies in Practice
+
+Throughout my academic projects, I've had the opportunity to explore different technologies and apply them to real-world problems.
+
+| Technology | How I've Used It |
+|---|---|
+| HTML | Building the structure and content of web pages, including Proyecto por Fiore. |
+| CSS | Designing layouts, improving visual presentation, and adapting websites to different screen sizes. |
+| JavaScript | Developing interactive features and subject filters for my ESPOL Virtual Classroom Organizer. |
+| TypeScript | Working with typed components and application logic in the ESPOL Interactive Curriculum project. |
+| React | Building reusable interface components for interactive web applications. |
+| Tailwind CSS | Styling and organizing the visual interface of the interactive curriculum. |
+| Markdown | Writing documentation and organizing information in GitHub repositories. |
+| Git & GitHub | Managing project versions, tracking changes, and collaborating through repositories. |
+| GitHub Pages | Publishing web projects and making them accessible online. |
+
+
 ## 🚀 Featured Projects
 
 Here are some of the projects I've worked on during my academic journey, exploring different technologies and solving problems through programming.
