@@ -43,3 +43,66 @@ La revisión demuestra la importancia de mantener un README organizado, utilizar
 
 Para mi portafolio aplicaré estas prácticas, procurando que la información sea fácil de encontrar y que los proyectos tengan descripciones comprensibles.
 
+
+## Análisis de proyectos destacados
+
+Se seleccionaron tres repositorios de los desarrolladores analizados para identificar buenas prácticas en documentación, organización y control de versiones.
+
+| Criterio | Cats Yumi e Nox | Tic Tac Toe with Minimax | Clean Architecture + SpringBoot |
+|---|---|---|---|
+| Descripción | Sitio web sobre dos gatos, desarrollado para practicar HTML y CSS. | Juego de tres en raya contra un algoritmo Minimax. | Proyecto Java que aplica arquitectura limpia con Spring Boot. |
+| Tecnologías | HTML, CSS y herramientas de Node.js. | Python. | Java, Spring Boot, Maven y herramientas de pruebas. |
+| README | Incluye propósito, instalación y uso. | Presenta el objetivo y tecnologías utilizadas. | Contiene documentación técnica detallada. |
+| Estructura | Carpetas CSS e imágenes, además de archivos de configuración. | Código Python y README principal. | Carpetas para módulos, documentación y configuración. |
+| Licencia | No se observa licencia en la raíz. | No se observa licencia en la raíz. | Licencia MIT. |
+| Historial | 19 commits. | 7 commits. | 103 commits. |
+| .gitignore | Sí. | No se observa en la raíz. | Sí. |
+| Demo | Sí, mediante GitHub Pages. | No se identifica una demo web. | No se identifica una demo web. |
+
+### Conclusiones de la revisión
+
+Los repositorios analizados muestran diferentes niveles de documentación y organización. Se identificó que los proyectos mejor documentados facilitan la comprensión de su propósito, las tecnologías utilizadas y su funcionamiento.
+
+Para mi portafolio considero importante incluir descripciones claras, enlaces funcionales y una organización sencilla. También procuraré registrar los cambios mediante commits descriptivos para mantener un historial comprensible.
+
+
+## Requisitos de mi portafolio digital
+
+### Requisitos funcionales
+
+| Código | Requisito | Descripción |
+|---|---|---|
+| RF01 | Presentación personal | Mostrar mi nombre, formación académica e intereses profesionales. |
+| RF02 | Habilidades | Presentar mis conocimientos de programación y desarrollo de software. |
+| RF03 | Tecnologías | Identificar las herramientas y tecnologías utilizadas durante el curso. |
+| RF04 | Proyectos destacados | Incluir al menos tres proyectos con descripción, tecnologías y enlaces a GitHub. |
+| RF05 | Contacto | Incorporar enlaces a mi GitHub y LinkedIn. |
+| RF06 | Publicación | Publicar el portafolio mediante GitHub Pages. |
+
+### Requisitos no funcionales
+
+| Código | Requisito | Descripción |
+|---|---|---|
+| RNF01 | Legibilidad | Utilizar títulos, subtítulos y textos fáciles de comprender. |
+| RNF02 | Accesibilidad | Mantener un formato comprensible en computadoras y dispositivos móviles. |
+| RNF03 | Organización | Distribuir la información en secciones claramente identificadas. |
+| RNF04 | Mantenibilidad | Facilitar la actualización de habilidades y proyectos. |
+| RNF05 | Versionamiento | Registrar los cambios mediante commits descriptivos. |
+| RNF06 | Privacidad | Evitar publicar información personal sensible. |
+
+## Evaluación de mi perfil actual
+
+| Elemento | Estado inicial | Mejora necesaria |
+|---|---|---|
+| Presentación | Implementada | Mejorar la descripción académica y profesional. |
+| Habilidades | Implementadas parcialmente | Ampliar y organizar las tecnologías. |
+| Proyectos | Repositorios disponibles | Documentar al menos tres proyectos destacados. |
+| Contacto | LinkedIn disponible | Mejorar la presentación de los enlaces. |
+| README | Existente | Organizar las secciones y mejorar el contenido. |
+| GitHub Pages | Pendiente de verificación | Configurar y comprobar el sitio publicado. |
+
+## Conclusión de la Fase 1
+
+El análisis permitió identificar buenas prácticas para construir un portafolio digital profesional. A partir de los perfiles y repositorios revisados, se establecieron los requisitos que guiarán el diseño y la implementación.
+
+La propuesta busca presentar mis conocimientos y proyectos de manera clara, accesible y organizada, aprovechando las herramientas de GitHub y Markdown.
