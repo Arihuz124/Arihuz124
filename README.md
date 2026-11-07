@@ -26,8 +26,6 @@ Throughout my academic projects, I've had the opportunity to explore different t
 | CSS | Designing layouts, improving visual presentation, and adapting websites to different screen sizes. |
 | JavaScript | Developing interactive features and subject filters for my ESPOL Virtual Classroom Organizer. |
 | TypeScript | Working with typed components and application logic in the ESPOL Interactive Curriculum project. |
-| React | Building reusable interface components for interactive web applications. |
-| Tailwind CSS | Styling and organizing the visual interface of the interactive curriculum. |
 | Markdown | Writing documentation and organizing information in GitHub repositories. |
 | Git & GitHub | Managing project versions, tracking changes, and collaborating through repositories. |
 | GitHub Pages | Publishing web projects and making them accessible online. |
