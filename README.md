@@ -61,7 +61,7 @@ A browser extension designed to improve the organization of academic activities 
 
 An interactive academic curriculum interface that helps students visualize courses and track their academic progress.
 
-This project is based on an existing open-source implementation, with personal adaptations and improvements.
+This project **is based on an existing open-source implementation**, with personal adaptations and improvements.
 
 **Technologies:** React, TypeScript, Tailwind CSS
 
