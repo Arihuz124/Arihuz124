@@ -64,7 +64,7 @@ An interactive meteorological dashboard created to explore and analyze over 145,
 - [View Repository](https://github.com/Arihuz124/proyecto3)
 - [Live Demo](https://arihuz124.github.io/proyecto3/)
 
-![Australia Weather Dashboard Preview](assets/previews/organizer.png)
+![Australia Weather Dashboard Preview](assets/previews/dashboard_interactivo.png)
 
 ### 🎓 ESPOL Interactive Curriculum
 
