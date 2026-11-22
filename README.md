@@ -55,6 +55,17 @@ A browser extension designed to improve the organization of academic activities 
 - [View Repository](https://github.com/Arihuz124/Extension-Canva-aula-virtual-ESPOL)
 ![ESPOL Virtual Classroom Organizer Preview](assets/previews/organizer.png)
 
+### 🌦️ Australia Weather Dashboard
+
+An interactive meteorological dashboard created to explore and analyze over 145,000 historical daily weather observations across 49 Australian stations, featuring dynamic filtering, real-time KPI calculations, statistical charts, and responsive design.
+
+**Technologies:** React, TypeScript, Material UI (MUI), Vite, Python, GitHub Pages
+
+- [View Repository](https://github.com/Arihuz124/proyecto3)
+- [Live Demo](https://arihuz124.github.io/proyecto3/)
+
+![Australia Weather Dashboard Preview](assets/previews/organizer.png)
+
 ### 🎓 ESPOL Interactive Curriculum
 
 An interactive academic curriculum interface that helps students visualize courses and track their academic progress.
